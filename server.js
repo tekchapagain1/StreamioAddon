@@ -3,6 +3,7 @@ const addon = require("./addon");
 const seedrApi = require("./seedrApi");
 
 const app = express();
+app.set('trust proxy', true);
 const PORT = process.env.PORT || 8000;
 
 // Enable CORS for all routes
