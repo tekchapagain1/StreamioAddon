@@ -1,6 +1,4 @@
 {
-  "projectName": "SeedrCloudExtension",
-  "lastCommit": "fdc22bd",
-  "projectType": "node",
-  "entry": "server.js"
+    "projectName": "SeedrCloudExtension",
+    "lastCommit": "e374e4b"
 }
